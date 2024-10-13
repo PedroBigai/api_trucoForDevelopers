@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+dist/
+npm-debug.log
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Outros
+.DS_Store
+Thumbs.db
+
+src\config
+firebase-service-account.json
